@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch.plugin:lang-mustache-client:6.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/lang-mustache-client/6.4.0/9abd91820353d904cf92317de4b5c20e05a15716/lang-mustache-client-6.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/lang-mustache-client/6.4.0/c148d041ef6a846921190cd87664714b1425fb70/lang-mustache-client-6.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

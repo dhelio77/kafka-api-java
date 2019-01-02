@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.kafka.elasticsearch.main" target="1.8" />
+      <module name="com.kafka.elasticsearch.test" target="1.8" />
+      <module name="com.kafka.kafka.elasticsearch.main" target="1.8" />
+      <module name="com.kafka.kafka.elasticsearch.test" target="1.8" />
+      <module name="com.kafka.kafka.main" target="1.8" />
+      <module name="com.kafka.kafka.test" target="1.8" />
+      <module name="com.kafka.kafka.twitter.main" target="1.8" />
+      <module name="com.kafka.kafka.twitter.test" target="1.8" />
+      <module name="com.kafka.twitter.main" target="1.8" />
+      <module name="com.kafka.twitter.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

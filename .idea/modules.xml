@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch/com.kafka.elasticsearch.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kafka.kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kafka.kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kafka.kafka.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kafka.kafka.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kafka.kafka.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kafka.kafka.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.iml" filepath="$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/twitter/com.kafka.twitter.test.iml" />
+    </modules>
+  </component>
+</project>

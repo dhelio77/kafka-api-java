@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.kafka:connect-transforms:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-transforms/2.0.0/1a9cfc523560fea18098660ce8e457e087083967/connect-transforms-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-transforms/2.0.0/d3f0a6612d43b458152834173fdcd54cc7b44612/connect-transforms-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

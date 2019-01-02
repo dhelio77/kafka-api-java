@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.lucene:lucene-misc:6.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/6.6.1/4a434f20c15a1e651ba9d3db1167fec695b557d4/lucene-misc-6.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/6.6.1/bc446106925f4d077eb9490809ec1f4189cdab5c/lucene-misc-6.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
